@@ -1,0 +1,21 @@
+[submodule "RN-StickerSmash"]
+	path = RN-StickerSmash
+	url = https://github.com/wesscosta/RN-StickerSmash.git
+[submodule "RN-TasksApp"]
+	path = RN-TasksApp
+	url = https://github.com/wesscosta/RN-TasksApp.git
+[submodule "RN-ReactNavegation"]
+	path = RN-ReactNavegation
+	url = https://github.com/wesscosta/RN-ReactNavegation.git
+[submodule "RN-ReceitasApp"]
+	path = RN-ReceitasApp
+	url = https://github.com/wesscosta/RN-ReceitasApp.git
+[submodule "RN-WeatherApp"]
+	path = RN-WeatherApp
+	url = https://github.com/wesscosta/RN-WeatherApp.git
+[submodule "RN-FinancyApp"]
+	path = RN-FinancyApp
+	url = https://github.com/wesscosta/RN-FinancyApp.git
+[submodule "RN-Firebase-Realtime"]
+	path = RN-Firebase-Realtime
+	url = https://github.com/wesscosta/RN-Firebase-Realtime.git
